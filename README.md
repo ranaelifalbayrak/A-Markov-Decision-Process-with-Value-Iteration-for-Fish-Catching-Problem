@@ -9,7 +9,7 @@ The fishers aim to maximize their harvest while considering the growth rate of t
 
 - The fishers need to decide the optimal number of fish to catch each year.
 - Overfishing decreases the yield the following year.
-- The growth rate (R) is a random variable, influencing the fish population for the next year.
+- The growth rate (R) is a random variable, influencing the fish population for the next year by multiplying the number of remaining fish with R and rounding it to the nearest integer.
 - Due to limited resources, the fish population cannot exceed M.
 - Initial utilities are 0.
 
