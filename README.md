@@ -22,9 +22,9 @@ The fishers aim to maximize their harvest while considering the growth rate of t
 
 The probability distribution over R is as follows:
 
-P(R = 1) = 0.2
-P(R = 1.25) = 0.3
-P(R = 1.5) = 0.3
-P(R = 1.75) = 0.2
+-P(R = 1) = 0.2
+-P(R = 1.25) = 0.3
+-P(R = 1.5) = 0.3
+-P(R = 1.75) = 0.2
 
 
